@@ -1,0 +1,2 @@
+Este arquivo servirá para testes, pois poderei utlizar o Github para guardar os arquivos e disponibilizar de forma mais precisa o que cada um precisará tornando mais facil na busca de determinados conteúdos, mas vale lembrar que será utilizado inicialmente de forma privada com o objetivo de evitar vazamento de certas informações em público.
+O primeiro exemplo é sobre dois arquivos, um txt e outro rtf listando os nomes dos distritos de diversas cidades do estado, ainda em parenteses.
